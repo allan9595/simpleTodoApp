@@ -4,7 +4,7 @@
 
 Submitted by: **Bohan Zhang**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
